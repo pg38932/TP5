@@ -1,0 +1,14 @@
+{
+  "name": "obras-musicais-json",
+  "version": "1.0.0",
+  "description": "obras",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
+}
